@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1e9bb2b.css",
+    "main.js": "/static/js/main.65c7c79c.js",
+    "static/media/Ginger Honey background.png": "/static/media/Ginger Honey background.df022f301f4488e117d0.png",
+    "index.html": "/index.html",
+    "main.d1e9bb2b.css.map": "/static/css/main.d1e9bb2b.css.map",
+    "main.65c7c79c.js.map": "/static/js/main.65c7c79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e9bb2b.css",
+    "static/js/main.65c7c79c.js"
+  ]
+}
